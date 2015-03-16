@@ -5,6 +5,7 @@
 Build status (on Travis CI) [![Build Status](https://travis-ci.org/philsquared/Catch.png)](https://travis-ci.org/philsquared/Catch)
 
 [Please see this page if you are updating from a version before 1.0](docs/whats-changed.md)
+[![Build Status](https://webapi.biicode.com/v1/badges/florianwolters/florianwolters/catch/master)](https://www.biicode.com/florianwolters/catch) 
 
 ## What's the Catch?
 
